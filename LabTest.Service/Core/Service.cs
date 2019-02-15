@@ -65,7 +65,7 @@ namespace LabTest.Service.Core
 
         public virtual async Task<TReadModel> UpdateAsync(TUpdateModel model, CancellationToken cancellationToken = default(CancellationToken))
         {
-            TDomain entity = await this.Repository.UpdateAsync(Mapper.Map<TDomain>(model)).ConfigureAwait(false);
+            TDomain entity = await this.Repository.UpdateAsync(Mapper.Map<TDomain>(model),cancellationToken).ConfigureAwait(false);
             return Mapper.Map<TReadModel>(entity);
         }
     }

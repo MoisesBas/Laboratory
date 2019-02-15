@@ -62,11 +62,11 @@ namespace LabTest.Repository
             return await this.Context.FindAsync<TDomain>(id,cancellationToken).ConfigureAwait(false);
         }
 
-        //public virtual async Task<TDomain> UpdateAsync(TDomain entity)
-        //{
-        //    this.Context.Set<TDomain>.Include(patient => patient.Reports);
-        //    return await this._executor(Task.FromResult(this.Context.Update<TDomain>(entity)), true).ConfigureAwait(false);
-        //}
+        public virtual async Task<TDomain> UpdateAsync(TDomain entity, CancellationToken cancellationToken = default(CancellationToken))
+        {
+            this.Context.Set<TDomain>();
+            return await this._executor(Task.FromResult(this.Context.Update<TDomain>(entity)), true).ConfigureAwait(false);
+        }
 
         public virtual async Task<IQueryable<TDomain>> GetAllIncludingAsync(params Expression<Func<TDomain, object>>[] propertySelectors)
         {

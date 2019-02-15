@@ -21,7 +21,7 @@ namespace LabTest.Repository
 
         Task<TEntity> CreateAsync(TEntity entity, CancellationToken cancellationToken = default(CancellationToken));
 
-        //Task<TEntity> UpdateAsync(TEntity entity);
+        Task<TEntity> UpdateAsync(TEntity entity, CancellationToken cancellationToken = default(CancellationToken));
 
         Task<TEntity> DeleteAsync(TEntity entity, CancellationToken cancellationToken = default(CancellationToken));
 
