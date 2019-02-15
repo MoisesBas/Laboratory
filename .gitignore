@@ -1,0 +1,16 @@
+LabTest.Api/bin/
+LabTest.Api/obj/
+LabTest.Domain/bin/
+LabTest.Domain/obj/
+LabTest.Infrastructure/bin/
+LabTest.Infrastructure/obj/
+LabTest.Model/bin/
+LabTest.Model/obj/
+LabTest.Repository/bin/
+LabTest.Repository/obj/
+LabTest.Service/bin/
+LabTest.Service/obj/
+LabTest.Web/bin/
+LabTest.Web/obj/
+
+
