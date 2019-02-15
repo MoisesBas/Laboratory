@@ -1,0 +1,8 @@
+E:\exam\Cart\Cart.Infrastructure\bin\Release\netcoreapp2.2\Cart.Infrastructure.deps.json
+E:\exam\Cart\Cart.Infrastructure\bin\Release\netcoreapp2.2\Cart.Infrastructure.dll
+E:\exam\Cart\Cart.Infrastructure\bin\Release\netcoreapp2.2\Cart.Infrastructure.pdb
+E:\exam\Cart\Cart.Infrastructure\obj\Release\netcoreapp2.2\Cart.Infrastructure.csproj.CoreCompileInputs.cache
+E:\exam\Cart\Cart.Infrastructure\obj\Release\netcoreapp2.2\Cart.Infrastructure.AssemblyInfoInputs.cache
+E:\exam\Cart\Cart.Infrastructure\obj\Release\netcoreapp2.2\Cart.Infrastructure.AssemblyInfo.cs
+E:\exam\Cart\Cart.Infrastructure\obj\Release\netcoreapp2.2\Cart.Infrastructure.dll
+E:\exam\Cart\Cart.Infrastructure\obj\Release\netcoreapp2.2\Cart.Infrastructure.pdb

@@ -1,0 +1,13 @@
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Cart.Repository.deps.json
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Cart.Repository.dll
+E:\exam\Cart\Cart.Repository\obj\Debug\netcoreapp2.2\Cart.Repository.csproj.CoreCompileInputs.cache
+E:\exam\Cart\Cart.Repository\obj\Debug\netcoreapp2.2\Cart.Repository.AssemblyInfoInputs.cache
+E:\exam\Cart\Cart.Repository\obj\Debug\netcoreapp2.2\Cart.Repository.AssemblyInfo.cs
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Cart.Domain.dll
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Cart.Domain.pdb
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+E:\exam\Cart\Cart.Repository\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+E:\exam\Cart\Cart.Repository\obj\Debug\netcoreapp2.2\Cart.Repository.csprojAssemblyReference.cache
+E:\exam\Cart\Cart.Repository\obj\Debug\netcoreapp2.2\Cart.Repository.csproj.CopyComplete

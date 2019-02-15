@@ -1,0 +1,8 @@
+E:\exam\Cart\Cart.Domain\bin\Debug\netcoreapp2.2\Cart.Domain.deps.json
+E:\exam\Cart\Cart.Domain\bin\Debug\netcoreapp2.2\Cart.Domain.dll
+E:\exam\Cart\Cart.Domain\bin\Debug\netcoreapp2.2\Cart.Domain.pdb
+E:\exam\Cart\Cart.Domain\obj\Debug\netcoreapp2.2\Cart.Domain.csproj.CoreCompileInputs.cache
+E:\exam\Cart\Cart.Domain\obj\Debug\netcoreapp2.2\Cart.Domain.AssemblyInfoInputs.cache
+E:\exam\Cart\Cart.Domain\obj\Debug\netcoreapp2.2\Cart.Domain.AssemblyInfo.cs
+E:\exam\Cart\Cart.Domain\obj\Debug\netcoreapp2.2\Cart.Domain.dll
+E:\exam\Cart\Cart.Domain\obj\Debug\netcoreapp2.2\Cart.Domain.pdb

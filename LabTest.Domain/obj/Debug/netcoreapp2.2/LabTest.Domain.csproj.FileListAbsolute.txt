@@ -1,0 +1,11 @@
+E:\exam\Cart\LabTest.Domain\bin\Debug\netcoreapp2.2\LabTest.Domain.deps.json
+E:\exam\Cart\LabTest.Domain\bin\Debug\netcoreapp2.2\LabTest.Domain.dll
+E:\exam\Cart\LabTest.Domain\bin\Debug\netcoreapp2.2\LabTest.Domain.pdb
+E:\exam\Cart\LabTest.Domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+E:\exam\Cart\LabTest.Domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+E:\exam\Cart\LabTest.Domain\obj\Debug\netcoreapp2.2\LabTest.Domain.csproj.CoreCompileInputs.cache
+E:\exam\Cart\LabTest.Domain\obj\Debug\netcoreapp2.2\LabTest.Domain.AssemblyInfoInputs.cache
+E:\exam\Cart\LabTest.Domain\obj\Debug\netcoreapp2.2\LabTest.Domain.AssemblyInfo.cs
+E:\exam\Cart\LabTest.Domain\obj\Debug\netcoreapp2.2\LabTest.Domain.csproj.CopyComplete
+E:\exam\Cart\LabTest.Domain\obj\Debug\netcoreapp2.2\LabTest.Domain.dll
+E:\exam\Cart\LabTest.Domain\obj\Debug\netcoreapp2.2\LabTest.Domain.pdb

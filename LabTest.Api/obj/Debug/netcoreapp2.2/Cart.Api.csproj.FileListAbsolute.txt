@@ -1,0 +1,14 @@
+E:\exam\Cart\Cart.Api\bin\Debug\netcoreapp2.2\Cart.Api.deps.json
+E:\exam\Cart\Cart.Api\bin\Debug\netcoreapp2.2\Cart.Api.runtimeconfig.json
+E:\exam\Cart\Cart.Api\bin\Debug\netcoreapp2.2\Cart.Api.runtimeconfig.dev.json
+E:\exam\Cart\Cart.Api\bin\Debug\netcoreapp2.2\Cart.Api.dll
+E:\exam\Cart\Cart.Api\bin\Debug\netcoreapp2.2\Cart.Api.pdb
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.csprojAssemblyReference.cache
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.csproj.CoreCompileInputs.cache
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.RazorAssemblyInfo.cache
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.RazorAssemblyInfo.cs
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.AssemblyInfoInputs.cache
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.AssemblyInfo.cs
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.RazorTargetAssemblyInfo.cache
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.dll
+E:\exam\Cart\Cart.Api\obj\Debug\netcoreapp2.2\Cart.Api.pdb

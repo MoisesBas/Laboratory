@@ -1,0 +1,11 @@
+E:\exam\Cart\LabTest.Infrastructure\bin\Release\netcoreapp2.2\LabTest.Infrastructure.deps.json
+E:\exam\Cart\LabTest.Infrastructure\bin\Release\netcoreapp2.2\LabTest.Infrastructure.dll
+E:\exam\Cart\LabTest.Infrastructure\bin\Release\netcoreapp2.2\LabTest.Infrastructure.pdb
+E:\exam\Cart\LabTest.Infrastructure\obj\Release\netcoreapp2.2\LabTest.Infrastructure.csproj.CoreCompileInputs.cache
+E:\exam\Cart\LabTest.Infrastructure\obj\Release\netcoreapp2.2\LabTest.Infrastructure.AssemblyInfoInputs.cache
+E:\exam\Cart\LabTest.Infrastructure\obj\Release\netcoreapp2.2\LabTest.Infrastructure.AssemblyInfo.cs
+E:\exam\Cart\LabTest.Infrastructure\obj\Release\netcoreapp2.2\LabTest.Infrastructure.dll
+E:\exam\Cart\LabTest.Infrastructure\obj\Release\netcoreapp2.2\LabTest.Infrastructure.pdb
+E:\exam\Cart\LabTest.Infrastructure\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\exam\Cart\LabTest.Infrastructure\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\exam\Cart\LabTest.Infrastructure\obj\Release\netcoreapp2.2\LabTest.Infrastructure.csproj.CopyComplete
